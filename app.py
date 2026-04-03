@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Flask, render_template, request, redirect
 
 app = Flask(__name__)
@@ -21,3 +22,5 @@ def delete(index):
 
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=False)
+=======
+>>>>>>> c408546dded5eae7e74364f38256ff6ebfed4f50
