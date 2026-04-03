@@ -2,13 +2,14 @@
 
 ## 📌 Description
 
-A simple web-based To-Do List application built using Python Flask. Users can add and manage tasks dynamically.
+A simple web-based To-Do List application built using Python Flask. It allows users to add and manage tasks dynamically.
 
 ## 🚀 Features
 
 * Add tasks
 * Delete tasks
-* Simple UI
+* Real-time task display
+* Simple and clean UI
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +18,12 @@ A simple web-based To-Do List application built using Python Flask. Users can ad
 * HTML
 * CSS
 
-## ▶️ Run
+## ▶️ How to Run
 
 pip install flask
 python app.py
+
+## 📷 Output
+
+Displays a web interface where users can add and view tasks dynamically.
+
